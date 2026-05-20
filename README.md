@@ -41,6 +41,11 @@
 
 При неверной конфигурации приложение не запускается.
 
+<img width="987" height="344" alt="Снимок экрана 2026-05-20 152312" src="https://github.com/user-attachments/assets/1ef28524-2560-4b2f-869a-4fd6e1a849a3" />
+
+<img width="1725" height="324" alt="Снимок экрана 2026-05-20 152359" src="https://github.com/user-attachments/assets/4f63f287-f8ad-4156-9458-657f7f7507ad" />
+
+
 ---
 
 ### Безопасность
@@ -102,6 +107,8 @@
 ```text
 429 Too Many Requests
 ```
+
+<img width="1217" height="55" alt="Снимок экрана 2026-05-20 150753" src="https://github.com/user-attachments/assets/5511b914-470e-4608-8b6a-d7ca76fae7f4" />
 
 ---
 
